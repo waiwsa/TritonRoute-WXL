@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/liujiahua/TritonRoute-WXL/module/def/5.8-p029/lib/libdefzlib.a CMakeFiles/defzlib.dir/defzlib/defzlib.cpp.o
+/usr/bin/ranlib /home/liujiahua/TritonRoute-WXL/module/def/5.8-p029/lib/libdefzlib.a

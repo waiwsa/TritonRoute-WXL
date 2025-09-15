@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/liujiahua/TritonRoute-WXL/module/lef/5.8-p029/lib/liblefzlib.a CMakeFiles/lefzlib.dir/lefzlib/lefzlib.cpp.o
+/usr/bin/ranlib /home/liujiahua/TritonRoute-WXL/module/lef/5.8-p029/lib/liblefzlib.a

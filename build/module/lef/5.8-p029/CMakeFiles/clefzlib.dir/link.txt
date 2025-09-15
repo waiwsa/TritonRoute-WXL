@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/liujiahua/TritonRoute-WXL/module/lef/5.8-p029/lib/libclefzlib.a 
+/usr/bin/ranlib /home/liujiahua/TritonRoute-WXL/module/lef/5.8-p029/lib/libclefzlib.a
